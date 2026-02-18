@@ -27,7 +27,13 @@ The dataset is based on the Chinook database, which mimics a real-world digital 
 ---
 
 ## 🗂️ Database Schema
-The project uses a relational database with multiple interconnected tables to simulate a real-world business environment.
+
+The project is built on a relational database modeled after the Chinook Music Store schema.  
+It includes interconnected tables for customers, invoices, tracks, artists, albums, and genres to support advanced analytical queries.
+
+### 📊 Schema Diagram
+![Music Store Schema](https://github.com/Sakshi-Gaur01/sql-music-store-analytics/blob/313e8a331f93e121c48226b6f4fcdccb17817020/schema_diagram.png)
+
 
 ### 📊 Main Tables Used
 - `customer` – Customer demographic details  
